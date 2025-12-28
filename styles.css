@@ -1,1 +1,7 @@
 styles.css
+.logo-img{
+width:46px;
+height:46px;
+object-fit:contain;
+border-radius:12px;
+}
